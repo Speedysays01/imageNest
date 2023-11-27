@@ -1,0 +1,60 @@
+*
+{
+    padding: 0;
+    margin: 15px;
+}
+div{
+    display: flex;
+}
+
+.contact
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    flex-direction: column;
+    text-align: center;
+    flex-basis: fit-content;
+
+}
+
+body{
+    background-color: #F4EEEE;
+    padding: 0;
+    
+}
+
+
+h1{
+    font-size: 3rem;
+    color: #313866;
+}
+
+
+
+.hi
+{
+    background-color:#FFDBAA;
+    border-radius: 20px;
+}
+
+
+
+a{
+    font-size: 1rem;;
+    color: #504099;
+}
+
+a:hover
+{
+    color: black;
+}
+
+li{
+    color: #35155D;
+    font-size: 1.5rem;
+    font-weight:bold ;
+}
