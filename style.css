@@ -11,6 +11,7 @@ body{
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
 .search {
   height: 40vh;
   display: flex;
@@ -43,14 +44,14 @@ body{
 .search h1 {
   font-size: 6rem;
   font-weight: 700;
-  margin-top: 20px;
+  margin-top: 10px;
   text-shadow: 12px -2px 15px black;
-  color: #45FFCA;
+  color: #80B3FF;
 }
 .search p {
-  margin-top: 15px;
+  margin-top: 1px;
   font-size: 1.5rem;
-  color: #B6FFFA;
+  color: #b0ccf7;
   
 }
 .search .search-box {
@@ -261,7 +262,7 @@ header .buttons i:last-child:hover {
     font-size: 1.1rem;
   }
   .search h1 {
-    font-size: 1.8rem;
+    font-size: 5rem;
   }
   .search .search-box {
     height: 50px;
